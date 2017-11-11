@@ -1,0 +1,45 @@
+
+ 
+记录时间：2017-11-01 20:31:17,555 
+日志级别：  ERROR 日志类：logerror property: [(null)] - 
+描述：ftp上传错误
+ 
+System.Net.WebException: 远程服务器返回错误: (550) 文件不可用(例如，未找到文件，无法访问文件)。
+   在 System.Net.FtpWebRequest.SyncRequestCallback(Object obj)
+   在 System.Net.CommandStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.Net.ConnectionPool.Destroy(PooledStream pooledStream)
+   在 System.Net.ConnectionPool.PutConnection(PooledStream pooledStream, Object owningObject, Int32 creationTimeout, Boolean canReuse)
+   在 System.Net.FtpWebRequest.FinishRequestStage(RequestStage stage)
+   在 System.Net.FtpWebRequest.GetResponse()
+   在 VideoApplication.Kit.FtpKit.MakeDir(String dirName) 位置 c:\video\WindowsFormsApplication1\Kit\FtpKit.cs:行号 300
+
+ 
+记录时间：2017-11-01 20:33:03,921 
+日志级别：  ERROR 日志类：logerror property: [(null)] - 
+描述：ftp上传错误
+ 
+System.Net.WebException: 远程服务器返回错误: (550) 文件不可用(例如，未找到文件，无法访问文件)。
+   在 System.Net.FtpWebRequest.SyncRequestCallback(Object obj)
+   在 System.Net.CommandStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.Net.ConnectionPool.Destroy(PooledStream pooledStream)
+   在 System.Net.ConnectionPool.PutConnection(PooledStream pooledStream, Object owningObject, Int32 creationTimeout, Boolean canReuse)
+   在 System.Net.FtpWebRequest.FinishRequestStage(RequestStage stage)
+   在 System.Net.FtpWebRequest.GetResponse()
+   在 VideoApplication.Kit.FtpKit.MakeDir(String dirName) 位置 c:\video\WindowsFormsApplication1\Kit\FtpKit.cs:行号 300
+
+ 
+记录时间：2017-11-01 20:46:38,398 
+日志级别：  ERROR 日志类：logerror property: [(null)] - 
+描述：/18614059767ftp上传错误
+ 
+System.Net.WebException: 远程服务器返回错误: (550) 文件不可用(例如，未找到文件，无法访问文件)。
+   在 System.Net.FtpWebRequest.SyncRequestCallback(Object obj)
+   在 System.Net.CommandStream.Dispose(Boolean disposing)
+   在 System.IO.Stream.Close()
+   在 System.Net.ConnectionPool.Destroy(PooledStream pooledStream)
+   在 System.Net.ConnectionPool.PutConnection(PooledStream pooledStream, Object owningObject, Int32 creationTimeout, Boolean canReuse)
+   在 System.Net.FtpWebRequest.FinishRequestStage(RequestStage stage)
+   在 System.Net.FtpWebRequest.GetResponse()
+   在 VideoApplication.Kit.FtpKit.MakeDir(String dirName) 位置 c:\video\WindowsFormsApplication1\Kit\FtpKit.cs:行号 300

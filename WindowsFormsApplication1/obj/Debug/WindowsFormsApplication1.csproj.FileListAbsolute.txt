@@ -1,0 +1,9 @@
+D:\toyota-ftp\video\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\toyota-ftp\video\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\toyota-ftp\video\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\toyota-ftp\video\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\toyota-ftp\video\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\toyota-ftp\video\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\toyota-ftp\video\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\toyota-ftp\video\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+D:\toyota-ftp\video\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SettingForm.resources
